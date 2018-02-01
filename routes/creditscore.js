@@ -8,10 +8,10 @@ exports.list = function(req, res){
     console.log(req.body);
 
     var resultData = {
-
+// Kenneth - testing V1
 // _CHANGE_ : Please comment the line with the DUMMY message and uncomment the one with the Welcome message
-        "MESSAGE": "DUMMY message V1"
-        //"MESSAGE": "Welcome to aura-js-creditscore version V1"
+//        "MESSAGE": "DUMMY message V1"
+        "MESSAGE": "Welcome to aura-js-creditscore version V1"
 
     };
 
